@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+#trangchu {
+	width:90%;
+	margin:0px auto;
+	background:#f6f6f6;
+		border-style:dotted;
+		clear: left;
+		overflow:hidden;
+		padding:20px;
+}
+.cot{
+	width:29.5%;
+	margin:10px;
+	padding:10px;
+	border:solid;
+	margin-right:20px;
+	height:200px;
+	float:left;
+	box-sizing:border-box;
+}
+.cot1{
+	border-style:solid dashed;
+	background:#333;
+}
+.cot2{
+	border:none;
+	background-color:#999;
+	border-radius:25px;
+	box-shadow: 10px 10px #FF0000;
+}
+#hinh-top-right {
+	position:absolute;
+	right:3.5%;
+	top:0px; 
+}
+.cot4{
+	border:solid #00F 2px;
+	width: 96%;
+	text-align:center;
+	margin:10px;
+	background: linear-gradient(Red,Blue)
+}
+.clear{
+	clear:both;
+}
